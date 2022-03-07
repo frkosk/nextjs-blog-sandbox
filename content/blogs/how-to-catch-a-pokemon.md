@@ -2,8 +2,6 @@
 title: How to catch a pokemon
 date: August 5, 2021 1:24 PM
 ---
-![](/uploads/corona-feri.jpg)
-
 # Seriously?
 
 Idk, install pokemon go and go outside you may find some pokemon.
